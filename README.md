@@ -1,2 +1,1 @@
-# weather-project
 # weather-
